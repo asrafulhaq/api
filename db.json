@@ -198,8 +198,167 @@
             "stock"         : "180",
             "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
             "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1-5.jpg"
+        },
+        {
+            "id"            : "11",
+            "name"          : "Jhum Tower Sharee For Women Blue",
+            "price"         : "1200",
+            "salePice"      : "",
+            "stock"         : "10",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_jhum-tower-sarees-for-women-blue-tanjin-tisha.webp"
+        },
+        {
+            "id"            : "12",
+            "name"          : "Tangail Half Silk Saree With Free Blouse Piece",
+            "price"         : "2100",
+            "salePice"      : "",
+            "stock"         : "50",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_tangail-half-silk-saree-with-free-blouse-piece.webp"
+        },
+        {
+            "id"            : "13",
+            "name"          : "Mom Batik Saree with Blouse Pcs MBS011",
+            "price"         : "1250",
+            "salePice"      : "",
+            "stock"         : "70",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_mom-batik-saree-with-blouse-pcs-mbs011.webp"
+        },
+        {
+            "id"            : "14",
+            "name"          : "Pink Color pure Endi cotton saree",
+            "price"         : "1200",
+            "salePice"      : "",
+            "stock"         : "70",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1-6.jpg"
+        },
+        {
+            "id"            : "15",
+            "name"          : "Dhanshiri Taant Cotton Sharee",
+            "price"         : "805",
+            "salePice"      : "",
+            "stock"         : "170",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1-7.jpg"
+        },
+        {
+            "id"            : "16",
+            "name"          : "Net Embroidary Shalwar Kameez",
+            "price"         : "1950",
+            "salePice"      : "",
+            "stock"         : "47",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_net-embroidary-shalwar-kameez-three-pcs.webp"
+        },
+        {
+            "id"            : "17",
+            "name"          : "Block Print Cotton Salwar Kameez",
+            "price"         : "800",
+            "salePice"      : "",
+            "stock"         : "447",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_unstitched-block-print-salwar-kameez-for-women.webp"
+        },
+        {
+            "id"            : "18",
+            "name"          : "Georgette Embroidery Shalwer Kameez",
+            "price"         : "1650",
+            "salePice"      : "",
+            "stock"         : "57",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_georgette-embroidery-shalwer-kameez.webp"
+        },
+        {
+            "id"            : "19",
+            "name"          : "Net Embroidary Shalwar Kameez",
+            "price"         : "1950",
+            "salePice"      : "",
+            "stock"         : "557",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_net-embroidary-shalwar-kameez-three-pcs-1.webp"
+        },
+        {
+            "id"            : "20",
+            "name"          : "Cotton Screen Print Shalwar Kameez",
+            "price"         : "520",
+            "salePice"      : "",
+            "stock"         : "87",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_cotton-skin-print-shalwar-kameezthree-pcs.webp"
         }
 
+        
+
+    ],
+    "category"  : [
+        {
+            "id"        : "1",
+            "name"      : "Men"
+        },
+        {
+            "id"        : "2",
+            "name"      : "Women"
+        },
+        {
+            "id"        : "3",
+            "name"      : "Baby"
+        },
+        {
+            "id"        : "4",
+            "name"      : "Electronics"
+        },
+        {
+            "id"        : "5",
+            "name"      : "Women"
+        }
+    ],
+    "brands"  : [
+        {
+            "id"        : "1",
+            "name"      : "Apple"
+        },
+        {
+            "id"        : "2",
+            "name"      : "Orange"
+        },
+        {
+            "id"        : "3",
+            "name"      : "Mango"
+        },
+        {
+            "id"        : "4",
+            "name"      : "Samsung"
+        },
+        {
+            "id"        : "5",
+            "name"      : "MI"
+        }
+    ],
+
+    "tags"  : [
+        {
+            "id"        : "1",
+            "name"      : "Eid"
+        },
+        {
+            "id"        : "2",
+            "name"      : "Puja"
+        },
+        {
+            "id"        : "3",
+            "name"      : "baishak"
+        },
+        {
+            "id"        : "4",
+            "name"      : "Srabon"
+        },
+        {
+            "id"        : "5",
+            "name"      : "Sorot"
+        }
     ]
     
 }
