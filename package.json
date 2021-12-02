@@ -1,0 +1,15 @@
+{
+  "name": "data-server",
+  "version": "1.0.0",
+  "description": "This is a API for data server for React, Vue, Laravel Developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "js"  : "json-server --watch db.json --port 5050"
+  },
+  "author": "Asraful Haque",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

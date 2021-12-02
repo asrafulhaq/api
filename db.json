@@ -1,0 +1,112 @@
+{
+    "users" : [
+        {
+            "id"            : "1",
+            "roleId"        : "1",
+            "name"          : "Asraful Haque",
+            "image"         : "https://asrafulhaq.com/wp-content/uploads/2021/11/140468275_10219765350664014_6316546586634327670_n-removebg-preview.png",
+            "age"           : "35",
+            "skill"         : "javaScript Developers",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "uname"         : "haq47",
+            "fb"            : "https://www.facebook.com/freelanc47",
+            "tw"            : "https://www.facebook.com/freelanc47",
+            "lin"            : "https://www.facebook.com/freelanc47",
+            "ins"            : "https://www.facebook.com/freelanc47" 
+        },
+        {
+            "id"            : "2",
+            "roleId"        : "1",
+            "name"          : "Muntasir Mahdi",
+            "image"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/240726300_165966305653028_4983838987680502564_n.jpeg",
+            "age"           : "2",
+            "skill"         : "Python Developers",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "uname"         : "mahdi47",
+            "fb"            : "https://www.facebook.com/freelanc47",
+            "tw"            : "https://www.facebook.com/freelanc47",
+            "lin"            : "https://www.facebook.com/freelanc47",
+            "ins"            : "https://www.facebook.com/freelanc47"
+        },
+        {
+            "id"            : "3",
+            "roleId"        : "2",
+            "name"          : "Maruful Haque",
+            "image"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/257590425_1611572142529276_8291261552135373819_n.jpeg",
+            "age"           : "23",
+            "skill"         : "IOS Developers",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "uname"         : "themaruf",
+            "fb"            : "https://www.facebook.com/freelanc47",
+            "tw"            : "https://www.facebook.com/freelanc47",
+            "lin"            : "https://www.facebook.com/freelanc47",
+            "ins"            : "https://www.facebook.com/freelanc47"
+        },
+        {
+            "id"            : "4",
+            "roleId"        : "2",
+            "name"          : "Milon Khan",
+            "image"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/100045649_2585642978351525_4291730750379655168_n.jpeg",
+            "age"           : "25",
+            "skill"         : "MERN Developers",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "uname"         : "milonsdev",
+            "fb"            : "https://www.facebook.com/freelanc47",
+            "tw"            : "https://www.facebook.com/freelanc47",
+            "lin"            : "https://www.facebook.com/freelanc47",
+            "ins"            : "https://www.facebook.com/freelanc47"
+        },
+        {
+            "id"            : "5",
+            "roleId"        : "2",
+            "name"            : "Salim Pros",
+            "image"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/135343264_2918083858428262_5312420262655581374_n.jpeg",
+            "age"           : "25",
+            "skill"         : "java Developers",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "uname"         : "salimpro",
+            "fb"            : "https://www.facebook.com/freelanc47",
+            "tw"            : "https://www.facebook.com/freelanc47",
+            "lin"            : "https://www.facebook.com/freelanc47",
+            "ins"            : "https://www.facebook.com/freelanc47"
+        },
+        {
+            "id"            : "6",
+            "roleId"        : "2",
+            "name"            : "Rabbi Los",
+            "image"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/257845722_1591728304494013_3347766047308195929_n.jpeg",
+            "age"           : "29",
+            "skill"         : "WP Developers",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "uname"         : "salimpro",
+            "fb"            : "https://www.facebook.com/freelanc47",
+            "tw"            : "https://www.facebook.com/freelanc47",
+            "lin"            : "https://www.facebook.com/freelanc47",
+            "ins"            : "https://www.facebook.com/freelanc47"
+        }
+    ],
+
+    "roles" : [
+        {
+            "id"    : "1",
+            "name"  : "Admin"
+        },
+        {
+            "id"    : "2",
+            "name"  : "Editor"
+        },
+        {
+            "id"    : "3",
+            "name"  : "Author"
+        },
+        {
+            "id"    : "4",
+            "name"  : "Student"
+        },
+        {
+            "id"    : "5",
+            "name"  : "Teacher"
+        }
+    ]
+    
+}
