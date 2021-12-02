@@ -107,6 +107,53 @@
             "id"    : "5",
             "name"  : "Teacher"
         }
+    ],
+    "products"  : [
+        {
+            "id"            : "1",
+            "name"          : "FULL Slive coton T-shirt",
+            "price"         : "490",
+            "salePice"      : "",
+            "stock"         : "12",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_mens-regular-cotton-t-shirt.webp"
+        },
+        {
+            "id"            : "2",
+            "name"          : "Semi Slive Yellow T-shirt",
+            "price"         : "290",
+            "salePice"      : "",
+            "stock"         : "1100",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1.jpg"
+        },
+        {
+            "id"            : "3",
+            "name"          : "Taiyan cvic T-shirt",
+            "price"         : "1290",
+            "salePice"      : "780",
+            "stock"         : "1100",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_half-sleeve-t-shirt-for-men.webp"
+        },
+        {
+            "id"            : "4",
+            "name"          : "Taiyan cvic T-shirt",
+            "price"         : "1290",
+            "salePice"      : "780",
+            "stock"         : "40",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_half-sleeve-t-shirt-for-men.webp"
+        },
+        {
+            "id"            : "5",
+            "name"          : "Cotok Swet T-shirt",
+            "price"         : "690",
+            "salePice"      : "390",
+            "stock"         : "20",
+            "desc"          : "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "photo"         : "https://asrafulhaq.com/wp-content/uploads/2021/12/1_sweat-shirt-for-men-by-redviolet.webp"
+        }
     ]
     
 }
